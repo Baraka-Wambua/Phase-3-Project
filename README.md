@@ -48,8 +48,19 @@ After evaluating and tuning the logistic regression ,
 #### Decission Tree Classifier Model Evaluation
  * After evaluating and tuning the decission tree classifier, it had an ROC AUC of around **80%**
  * The Decission Tree classifier had an accuracy of about **70%**.
-
+## LIMITATIONS.
+****The major limitation about this model is that the dataset as imbalanced . Tried using `SMOTE` but it could help improve the results.****
 ## CONCLUSION.
+From the modelling process, I made two models: `logistic regression` and a `decission tree classification` model.
+****I Made the following conclusions:****
+ * After evaluating and tuning the logistic regression , It had a ROC AUC score of around **83%**.
+ * The logistic regression model also provided a testing accuracy score of **83%** and a testing precission of **67%**.
+ * The logistic regression has a higher precission than recall.
+
+ * After evaluating and tuning the decission tree classifier, it had an ROC AUC of around **80%**
+ * The Decission Tree classifier had an accuracy of about **70%**
+
+## RECOMMENDATION.
 Of the two models, it is better to utilize the ****regression model****. The regression model has a higher accuracy score of **83%** and a precission of **67%**. 
 * This precission is way better than recall.This is useful in our prediction cases. It is better to predict a person a person as having taken the vaccine than predicting a person that didn't take the vaccine as having taken the vaccine.
 * This model can be used in places where one wants to introduce vaccines for the first time.
