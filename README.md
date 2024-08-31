@@ -26,9 +26,9 @@ For this project, i will be using information from datasets:
 I made a logistic regression model and came up with the following ROC graph and Confusion Matrix after Tuning the model.
 
 
+![DT_ROC](https://github.com/user-attachments/assets/742bd18b-a969-42ca-9e64-a6903b4bbf9e)
 ![LR_conf](https://github.com/user-attachments/assets/7feb368b-b2f0-4125-87f8-47c51423a66d)
 ![DT_conf](https://github.com/user-attachments/assets/a4e41a72-7c4a-47a7-9284-eb5d02779831)
-![DT_ROC](https://github.com/user-attachments/assets/742bd18b-a969-42ca-9e64-a6903b4bbf9e)
 ![ROC_conf](https://github.com/user-attachments/assets/6000264a-311e-4b70-9cc2-e863a9058f80)
 
 
