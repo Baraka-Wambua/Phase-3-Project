@@ -11,9 +11,9 @@ The main objectives are:
 
 * To predict how likely individuals are to receive H1N1_vaccine.
 * To use Logistic regression modelling to make our predictions
-*To model a DecisionTree that provides us with predictions
-*To evaluate the performance of our models and come up with the best model.
-*Provide insight of how people would react to covid-19 vaccination.
+* To model a DecisionTree that provides us with predictions
+* To evaluate the performance of our models and come up with the best model.
+* Provide insight of how people would react to covid-19 vaccination.
 
 ## Data Understanding
 For this project, i will be using information from datasets:
