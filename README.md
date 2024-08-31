@@ -49,7 +49,8 @@ After evaluating and tuning the logistic regression ,
  * After evaluating and tuning the decission tree classifier, it had an ROC AUC of around **80%**
  * The Decission Tree classifier had an accuracy of about **70%**.
 ## LIMITATIONS.
-****The major limitation about this model is that the dataset as imbalanced . Tried using `SMOTE` but it could help improve the results.****
+****The major limitation about this model is that the dataset was imbalanced . Tried using `SMOTE` but it could help improve the results.****
+
 ## CONCLUSION.
 From the modelling process, I made two models: `logistic regression` and a `decission tree classification` model.
 ****I Made the following conclusions:****
