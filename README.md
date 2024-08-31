@@ -36,7 +36,7 @@ In order to end up with the best logistic regression model,
 After evaluating and tuning the logistic regression , 
 * It had a ROC AUC score of around **83%**.
 * The logistic regression model also provided a testing accuracy score of 83% and a testing precission of **67%**.
-* The logistic regression has a higher precission than recall. This works better with our model.
+* The logistic regression has a higher precission than recall. This works better with our model since it is better to predict one as not being vaccinated while they are ,than predicting them as vaccinated while they aren't.
 
 ####2. Decision Tree Classifier Modelling.
 * In the decision Tree, I used AUC ROC and Accuracy score as my evaluation metrics.
@@ -51,7 +51,7 @@ After evaluating and tuning the logistic regression ,
 
 ## CONCLUSION.
 Of the two models, it is better to utilize the ****regression model****. The regression model has a higher accuracy score of **83%** and a precission of **67%**. 
-* This precission is way better than recall.THis is useful in our prediction cases. It is better to predict a person a person as having taken the vaccine than predicting a person that didn't take the vaccine as having taken the vaccine.
+* This precission is way better than recall.This is useful in our prediction cases. It is better to predict a person a person as having taken the vaccine than predicting a person that didn't take the vaccine as having taken the vaccine.
 * This model can be used in places where one wants to introduce vaccines for the first time.
 *  or where a stakeholder wants to begin distributing vaccines due to an emerged virus.
 
