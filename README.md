@@ -67,7 +67,7 @@ Of the two models, it is better to utilize the ****regression model****. The reg
 * This model can be used in places where one wants to introduce vaccines for the first time.
 *  or where a stakeholder wants to begin distributing vaccines due to an emerged virus.
 
-THE Attached pdf Non Technical presentation can be found [HERE]
+THE Attached pdf Non Technical presentation can be found [HERE][H1N1 VACCINE PREDICTION..pdf](https://github.com/user-attachments/files/16825869/H1N1.VACCINE.PREDICTION.pdf)
 
 
 
