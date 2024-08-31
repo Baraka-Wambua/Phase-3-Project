@@ -22,7 +22,7 @@ For this project, i will be using information from datasets:
 * training_set_labels.csv - A dataset containing the label features 0 and 1. 0 for those who received vaccines and 1 for those who didn't.
 
 ## Modelling
-####1. Logistic Regression Modeling 
+#### 1. Logistic Regression Modeling 
 The model is an imbalanced case since it has **79%** percent of people who never received the vaccine against **21%**  people who received
 *In The Modelling process I used Area Under the curve ,ROC and AUC as my evaluation metrics.
 ##### I made a logistic regression model and came up with the following ROC graph and Confusion Matrix after Tuning the model.
